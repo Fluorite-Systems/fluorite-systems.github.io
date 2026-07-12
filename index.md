@@ -1,6 +1,6 @@
 # FluoriteOS
 
-FluoriteOS is a Linux distribution with Debian package base, read-only root filesystem, and JSON api for applications in any programming language.
+FluoriteOS is a Linux distribution with Debian package base, read-only root filesystem, and JSON API for applications in any programming language.
 
 Currently, it's in active development. Public images are coming very soon. Screenshots are coming soon too.
 
@@ -41,13 +41,13 @@ Applications will run in **bwrap**-isolated environment, with permission system.
 
 ---
 
-## ℹ️ About
+## About
 
 FluoriteOS is currently developed by single person (Iamha111). Our goal is to make a simple, polished, clean and easy to use operating system, with focus on modern technologies. 
-It's open source - [GitHub](https://github.com/fluorite-systems/fluoriteos)
+It's open source - [GitHub](https://github.com/fluorite-systems)
 
 ---
 
-## 📱 Follow us
+## Follow us
 
 - [Fluorite Systems at GitHub](https://github.com/fluorite-systems)
