@@ -4,8 +4,6 @@ FluoriteOS is a Linux distribution with Debian package base, read-only root file
 
 Currently, it's in active development. Public images are coming very soon. Screenshots are coming soon too.
 
-![FluoriteOS logo](assets/images/fluoriteos_logo.svg)
-
 ---
 
 ## Features
