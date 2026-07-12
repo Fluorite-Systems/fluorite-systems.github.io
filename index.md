@@ -44,7 +44,7 @@ Applications will run in **bwrap**-isolated environment, with permission system.
 ## ℹ️ About
 
 FluoriteOS is currently developed by single person (Iamha111). Our goal is to make a simple, polished, clean and easy to use operating system, with focus on modern technologies. 
-It's open source - [GitHub](https://github.com/fluorite-systems)
+It's open source - [GitHub](https://github.com/fluorite-systems/fluoriteos)
 
 ---
 
