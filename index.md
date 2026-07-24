@@ -1,4 +1,4 @@
-![FluoriteOS logo](./assets/images/fluoriteos-full-dark.svg)
+![FluoriteOS logo](./assets/images/fluoriteos-full-light.svg)
 
 
 FluoriteOS is a Linux distribution with Debian package base, read-only root filesystem, and JSON API for applications in any programming language.
