@@ -1,4 +1,5 @@
-# FluoriteOS
+![FluoriteOS logo](./assets/images/fluoriteos-full-dark.svg)
+
 
 FluoriteOS is a Linux distribution with Debian package base, read-only root filesystem, and JSON API for applications in any programming language.
 
@@ -9,7 +10,7 @@ Currently, it's in active development. Public images are coming very soon. Scree
 ## Features
 
 ### 🧩 Applications on any language
-The primary concept of FluoriteOS is it's unique method of writing applications: instead of complex client-side rendering, application just sends UI layouts, call methods, receive events, etc via UNIX socket in JSON format. Because of this, applications can be written in **any** language that supports UNIX sockets, and have a very similar look. Production applications are packaged in squashfs and can be installed by simply copying the package into */home/Applications/* directory.
+The primary concept of FluoriteOS is it's unique method of writing applications: instead of complex client-side rendering, application just sends UI layouts, call methods, receive events, etc via UNIX socket in JSON format. Because of this, applications can be written in **any** language that supports UNIX sockets, and have a very similar look. Production applications are packaged in squashfs and can be installed by simply copying the package into */home/Applications/* directory. They also run in Bubblewrap-isolated environments.
 
 ### 🔍 Global search
 You can easily integrate your app with the Global Search by adding a *search* entrypoint in your application. Currently, there is *items*, *actions* and *review* result styles. It's possible to make an RSS reader, bookmark search, etc.
@@ -35,9 +36,6 @@ System updates change only two files: BOOTX64.EFI and rootfs.squashfs. When some
 
 ### 🌐 Fluorite Warp
 A system utility for easy sharing of files, applications, system updates, applications data between computers in local network using Zeroconf.
-
-### 🛡️ Isolated applications
-Applications will run in **bwrap**-isolated environment, with permission system.
 
 ---
 
