@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://fluorite-systems.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://fluorite-systems.github.io/</loc>
+</url>
+<url>
+<loc>https://fluorite-systems.github.io/about.html</loc>
+<lastmod>2026-09-06T18:56:42+04:00</lastmod>
+</url>
+<url>
+<loc>https://fluorite-systems.github.io/download.html</loc>
+<lastmod>2026-09-06T18:57:02+04:00</lastmod>
+</url>
+<url>
+<loc>https://fluorite-systems.github.io/features.html</loc>
+<lastmod>2026-09-06T18:57:11+04:00</lastmod>
+</url>
+<url>
+<loc>https://fluorite-systems.github.io/screenshots.html</loc>
+<lastmod>2026-09-06T19:02:42+04:00</lastmod>
+<image:image>
+<image:loc>https://fluorite-systems.github.io/media/posts/3/gallery/theme-demo-neutral-thumbnail.png</image:loc>
+<image:title><![CDATA[Neutral theme preview]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fluorite-systems.github.io/media/posts/3/gallery/theme-demo-dark-thumbnail.png</image:loc>
+<image:title><![CDATA[Dark theme preview]]></image:title>
+</image:image>
+</url>
+</urlset>

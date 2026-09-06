@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "FluoriteOS",
+    "description": "",
+    "home_page_url": "https://fluorite-systems.github.io",
+    "feed_url": "https://fluorite-systems.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://fluorite-systems.github.io/media/website/fluoriteos-full.svg",
+    "author": {
+        "name": "Iamha111"
+    },
+    "items": [
+    ]
+}
