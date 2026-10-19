@@ -18,10 +18,14 @@
 </url>
 <url>
 <loc>https://fluorite-systems.github.io/screenshots.html</loc>
-<lastmod>2026-09-08T14:21:39+04:00</lastmod>
+<lastmod>2026-10-19T19:44:48+04:00</lastmod>
 <image:image>
 <image:loc>https://fluorite-systems.github.io/media/posts/3/gallery/Snimok-ekrana_20260906_232954-thumbnail.png</image:loc>
 <image:title><![CDATA[test]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fluorite-systems.github.io/media/posts/3/gallery/photo_2026-10-19_19-40-58-thumbnail.jpg</image:loc>
+<image:title><![CDATA[another test]]></image:title>
 </image:image>
 </url>
 </urlset>
